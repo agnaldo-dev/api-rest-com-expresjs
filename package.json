@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-com-expresjs",
+  "version": "1.0.0",
+  "description": "Api Rest usando o Express com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnaldo-dev/api-rest-com-expresjs.git"
+  },
+  "keywords": [],
+  "author": "Agnaldo dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnaldo-dev/api-rest-com-expresjs/issues"
+  },
+  "homepage": "https://github.com/agnaldo-dev/api-rest-com-expresjs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
